@@ -6,7 +6,10 @@ My stupid boss still prefers SVN. —-测试
 
 Creating a new branch is quick AND.
 
+<<<<<<< HEAD
 Git is a free software
 
 分支测试
 llllll
+=======
+>>>>>>> parent of 9835d4d... issue-101
