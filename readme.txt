@@ -7,3 +7,5 @@ My stupid boss still prefers SVN. —-测试
 Creating a new branch is quick AND.
 
 Git is a free software
+
+分支测试
